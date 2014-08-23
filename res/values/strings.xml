@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OoW Hangeffekt</string>
+    <string name="title_section1">OoW</string>
+    <string name="title_section2">WoW</string>
+    <string name="title_section3">Játék</string>
+    <string name="title_section4">Tv</string>
+    <string name="title_section5">Zene</string>
+    <string name="title_section6">Egyéb</string>
+    <string name="action_settings">Beállítások</string>
+
+</resources>
